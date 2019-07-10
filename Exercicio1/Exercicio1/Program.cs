@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ * 1. Escrever um algoritmo que leia 5 valores, um de cada vez, e conta quantos destes valores são negativos, escrevendo esta informação. (Utilize um array) [Feito em Aula]
+ */
 namespace Exercicio1
 {
     class Program
